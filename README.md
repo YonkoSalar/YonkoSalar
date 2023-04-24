@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salar</h1>
-<h3 align="center">5-year-old Master's student in Computer Science at NTNU with a passion for full-stack development, computer vision, deep learning, embedded systems, and robotics.</h3>
+<h3 align="center">5th year Master's student in Computer Science at NTNU with a passion for full-stack development, computer vision, deep learning, embedded systems, and robotics.</h3>
 
 - 👨‍💻 All of my projects are available at [salaradel.no](salaradel.no)
 
