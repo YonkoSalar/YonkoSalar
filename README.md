@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Salar</h1>
-<h3 align="center">5th year Master's student in Computer Science at NTNU with a passion for web development, computer vision, deep learning, embedded systems, and robotics.</h3>
+<h3 align="center">Computer Science Alumnus from NTNU, currently innovating at Volue with a passion for web development, computer vision, deep learning, embedded systems, and robotics 🤖.</h3>
 
-- 👨‍💻 All of my projects are available at [salaradel.no](salaradel.no)
+- 👨‍💻 Discover my projects at [salaradel.no](https://salaradel.no)
 
-- 📫 How to reach me **salaradel4@gmail.com**
+- 📫 Reach me at **salaradel4@gmail.com**
 
-- 📄 Know about my experiences [https://salaradel.no/CV.pdf](https://salaradel.no/CV.pdf)
+- 📄 View my experiences [here](https://salaradel.no/CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
