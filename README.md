@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Salar</h1>
-<h3 align="center">Computer Science Alumnus from NTNU, currently innovating at Volue with a passion for web development, computer vision, deep learning, embedded systems, and robotics :robot:.</h3>
 
 - Discover my projects at [salaradel.no](https://salaradel.no)
 
