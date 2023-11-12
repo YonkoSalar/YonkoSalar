@@ -1,11 +1,11 @@
-<h1 align="center">Hi :wave:, I'm Salar</h1>
+<h1 align="center">Hi, I'm Salar</h1>
 <h3 align="center">Computer Science Alumnus from NTNU, currently innovating at Volue with a passion for web development, computer vision, deep learning, embedded systems, and robotics :robot:.</h3>
 
-- :man_technologist: Discover my projects at [salaradel.no](https://salaradel.no)
+- Discover my projects at [salaradel.no](https://salaradel.no)
 
-- :mailbox: Reach me at **salaradel4@gmail.com**
+- Reach me at **salaradel4@gmail.com**
 
-- :page_facing_up: View my experiences [here](https://salaradel.no/CV.pdf)
+- View my experiences [here](https://salaradel.no/CV.pdf)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/salar-adel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salar-adel" height="30" width="40" /></a>
